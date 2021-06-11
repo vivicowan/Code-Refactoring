@@ -1,10 +1,9 @@
 # Code-Refactoring
   
-## Description
+## Creating a more accesible Horiseon Digital Marketing webpage. 
   
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- The motivation behind this task was to ensure that the Horiseon Marketing Agency increased efficiency with their webpage. 
+- Why did you build this project?
 - What problem does it solve?
 - What did you learn?
   
