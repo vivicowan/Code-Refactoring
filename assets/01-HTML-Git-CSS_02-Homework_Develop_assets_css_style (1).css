@@ -1,3 +1,4 @@
+/* Universal element for entire webpage formatting. */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,6 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Header class for the webpage's attributes and stying. */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -51,6 +53,7 @@ p {
   font-size: 16px;
 }
 
+/* Hero class for the style of the main image on the webpage. */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,6 +63,7 @@ p {
   background-position: center;
 }
 
+/* Float classes for the placement of images in the main section of the webpage. */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -70,12 +74,14 @@ p {
   margin-left: 25px;
 }
 
+/* Content class for the summarized information on webpage. */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Benefits class to format the side information. */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,22 +93,26 @@ p {
   background-color: #2589bd;
 }
 
+/* Aside and section elements style the side information. */
 aside section {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* Lead, brand, and cost class for formatting the side text. */
 .lead-brand-cost h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* Lead, brand, and cost class for formatting the side images. */
 .lead-brand-cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
+/* Main and section element to style and format the boxes that surround the main informatoin. */
 main section {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,15 +122,18 @@ main section {
   color: #ffffff;
 }
 
+/* Search, online, and social class made to format the size of images. */
 .search-online-social img {
   max-height: 200px;
 }
 
+/* Search, online, and social class made to format the headers. */
 .search-online-social h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/* Footer class for footer formatting and text styling. */
 .footer {
   padding: 30px;
   clear: both;
