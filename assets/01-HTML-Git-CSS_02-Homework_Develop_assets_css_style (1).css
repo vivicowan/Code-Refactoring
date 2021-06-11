@@ -144,29 +144,11 @@ main section {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-online-social img {
   max-height: 200px;
 }
 
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.search-online-social h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
